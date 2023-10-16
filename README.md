@@ -1,4 +1,4 @@
-# CS6200/IS4200: Homework 4
+# CS6200/IS4200: Homework 5
 
 After cloning this repository, you can edit the Jupyter notebooks locally or an a hosted platform like Google Colab. Read through the notebooks `embeddings.ipynb` and `document-reranking.ipynb`, filling in code and explanations in the blocks starting with "TODO". Note that `embeddings.ipynb` has some extra credit questions at the end.
 
